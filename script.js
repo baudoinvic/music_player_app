@@ -44,7 +44,28 @@ const music_list = [
         name : 'Rather Be',
         artist : 'Clean Bandit',
         music : 'music/Rather Be.mp3'
-    }
+    },
+
+    {
+        img : 'images/burna.jpeg',
+        name : 'For my hand',
+        artist : 'burnaboy',
+        music : 'music/for my hand.mp3'
+    },
+{
+   img : 'images/bounce.jpeg',
+   name : 'Bounce',
+   artist : 'Ruger',
+   music : 'music/ruger.mp3'
+},
+
+ {
+    img : 'images/acehood.jpg',
+    name : 'Hustle',
+    artist : 'Acehood',
+    music : 'music/hustle.mp3',
+ }
+
 ];
 
 loadTrack(track_index);
